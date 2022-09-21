@@ -1,4 +1,4 @@
-# savepoorproject
+# Save Poor
 ## This is my Microsoft Future Ready Talent project website of "Save Poor"
 ## Link to my website :- https://victorious-flower-0ef9ffd10.1.azurestaticapps.net
 
